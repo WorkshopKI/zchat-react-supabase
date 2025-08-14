@@ -43,8 +43,8 @@ A modern AI chat interface with project-based organization, built with React, Vi
 ### 1. Clone and Install
 
 ```bash
-git clone <repository-url>
-cd chatgpt-clone
+git clone https://github.com/WorkshopKI/zchat-react-supabase.git
+cd zchat-react-supabase
 npm install
 ```
 
