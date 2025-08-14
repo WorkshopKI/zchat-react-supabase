@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(brew install:*)",
+      "Bash(supabase init:*)",
+      "Bash(supabase migration:*)",
+      "Bash(supabase start:*)",
+      "Bash(docker:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(open:*)",
+      "Bash(supabase:*)",
+      "Bash(ls:*)",
+      "Bash(pkill:*)",
+      "Bash(curl:*)",
+      "Bash(cat:*)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(timeout 5s npm run dev)",
+      "Bash(npx tsc:*)",
+      "Bash(cp:*)",
+      "Bash(npx supabase:*)",
+      "Bash(psql:*)",
+      "Bash(npx tsx:*)"
+    ],
+    "deny": []
+  }
+}
